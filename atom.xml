@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HelloBear&#39;s Blog</title>
+  
+  <subtitle>In me the tiger sniffs the rose.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-09-12T10:51:59.415Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>hello bear</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>时间管理的七招</title>
+    <link href="http://yoursite.com/2018/09/11/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%9A%84%E4%B8%83%E6%8B%9B/"/>
+    <id>http://yoursite.com/2018/09/11/时间管理的七招/</id>
+    <published>2018-09-11T07:05:58.000Z</published>
+    <updated>2018-09-12T10:51:59.415Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://pexq2p97e.bkt.clouddn.com/seven" alt="image.png"><br>第一句：</p><blockquote><p>1.“进程切换非常昂贵，避免多任务，保持单进程。”</p></blockquote><p>第二句：</p><blockquote><p>2.“研究表明，集中注意力、高效工作，每天最多4小时。”</p></blockquote><p>第三句：</p><blockquote><p>3.“划分任务的优先级，不要把’急切’当作’重要’。”</p></blockquote><p>第四句：</p><blockquote><p>4.“起床后，不要查看邮件和微信。”</p></blockquote><p>第五句：</p><blockquote><p>5.“避免开会，因为人类已知的最浪费时间的事情，就是开会。”</p></blockquote><p>第六局：</p><blockquote><p>6.“你没空时不会做的事情，有空了也不会做。”</p></blockquote><p>第七句：</p><blockquote><p>7.“早晨4点起床，到了中午，你就完成了一天的任务”</p></blockquote><p>感谢“<a href="http://www.ruanyifeng.com/blog/" target="_blank" rel="noopener">阮一峰</a>”的博客贡献的这七句话，分享与大家共勉。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://pexq2p97e.bkt.clouddn.com/seven&quot; alt=&quot;image.png&quot;&gt;&lt;br&gt;第一句：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1.“进程切换非常昂贵，避免多任务，保持单进程。”&lt;/p&gt;
+&lt;/blockquote
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
