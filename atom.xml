@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-18T07:26:21.840Z</updated>
+  <updated>2018-09-18T12:01:27.310Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>提问的艺术</title>
+    <link href="http://yoursite.com/2018/09/18/%E6%8F%90%E9%97%AE%E7%9A%84%E8%89%BA%E6%9C%AF/"/>
+    <id>http://yoursite.com/2018/09/18/提问的艺术/</id>
+    <published>2018-09-18T10:59:02.000Z</published>
+    <updated>2018-09-18T12:01:27.310Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://pexq2p97e.bkt.clouddn.com/lookBack" alt="某天下午捕捉拍摄路人"></p><blockquote><p>“提出一个问题往往比解决一个问题更为重要”</p><footer><strong>——爱因斯坦</strong></footer></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://pexq2p97e.bkt.clouddn.com/lookBack&quot; alt=&quot;某天下午捕捉拍摄路人&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“提出一个问题往往比解决一个问题更为重要”&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;——爱因斯
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>日记：每天跑步一小时？</title>
