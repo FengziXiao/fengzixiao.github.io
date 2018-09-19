@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-18T13:04:26.712Z</updated>
+  <updated>2018-09-19T03:01:56.511Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>怎么在github仓库readme文件中展示gif</title>
+    <link href="http://yoursite.com/2018/09/19/%E6%80%8E%E4%B9%88%E5%9C%A8github%E4%BB%93%E5%BA%93readme%E6%96%87%E4%BB%B6%E4%B8%AD%E5%B1%95%E7%A4%BAgif/"/>
+    <id>http://yoursite.com/2018/09/19/怎么在github仓库readme文件中展示gif/</id>
+    <published>2018-09-19T01:58:38.000Z</published>
+    <updated>2018-09-19T03:01:56.511Z</updated>
+    
+    <content type="html"><![CDATA[<p>先展示一下效果：<br><img src="http://upload-images.jianshu.io/upload_images/1340843-562014e2378b2fb4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="github.png"><br>这是一张截图，readme文件中显示的是gif图片，请进地址查看：<a href="https://github.com/FengziXiao/JxyDatePicker" target="_blank" rel="noopener">github地址</a></p><p>其实上传很简单。可却不是直接拖入那么简单。下面就按照步骤介绍一下。</p><blockquote><p>第一步：需要将你需要显示的gif图跟随你的项目代码一同上传至你在github建立的仓库上。如图所示：<br><img src="http://upload-images.jianshu.io/upload_images/1340843-668dae8c8c28a658.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="屏幕快照 2017-08-04 下午4.30.20.png"><br>如果你需要展示比较多gif图，且为了方便管理，你可以建个文件夹放这些图。</p></blockquote><blockquote><p>第二步：点击你仓库中的git图，你就可以获取到该gif图的地址：<br><img src="http://upload-images.jianshu.io/upload_images/1340843-62091c3d1befe595.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="gif地址.png"></p></blockquote><blockquote><p>第三步，也就是最后一步了。编辑本地的README文件（最好用markDown编辑器打开，方便及时预览效果），在需要导入gif图的地方填写即可哦。如下（拷贝，改地址就行啦）：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&gt;![image](https://github.com/FengziXiao/JxyDatePicker/blob/master/1340843-a76f1e1788c0684f.gif)</span><br><span class="line">&gt;</span><br></pre></td></tr></table></figure></p></blockquote><blockquote><p><img src="http://upload-images.jianshu.io/upload_images/1340843-406c62ed6a17f13b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="屏幕快照 2017-08-04 下午4.42.59.png"></p></blockquote><p>好啦。编辑好了之后push到github仓库就可以了。你就可以看到gif动画了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;先展示一下效果：&lt;br&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/1340843-562014e2378b2fb4.png?imageMogr2/auto-orient/strip%7CimageView
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>提问的艺术</title>
