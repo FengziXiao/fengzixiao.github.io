@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[怎么在github仓库readme文件中展示gif]]></title>
     <url>%2F2018%2F09%2F19%2F%E6%80%8E%E4%B9%88%E5%9C%A8github%E4%BB%93%E5%BA%93readme%E6%96%87%E4%BB%B6%E4%B8%AD%E5%B1%95%E7%A4%BAgif%2F</url>
-    <content type="text"><![CDATA[先展示一下效果：这是一张截图，readme文件中显示的是gif图片，请进地址查看：github地址 其实上传很简单。可却不是直接拖入那么简单。下面就按照步骤介绍一下。 第一步：需要将你需要显示的gif图跟随你的项目代码一同上传至你在github建立的仓库上。如图所示：如果你需要展示比较多gif图，且为了方便管理，你可以建个文件夹放这些图。 第二步：点击你仓库中的git图，你就可以获取到该gif图的地址： 第三步，也就是最后一步了。编辑本地的README文件（最好用markDown编辑器打开，方便及时预览效果），在需要导入gif图的地方填写即可哦。如下（拷贝，改地址就行啦）：12&gt;![image](https://github.com/FengziXiao/JxyDatePicker/blob/master/1340843-a76f1e1788c0684f.gif)&gt; 好啦。编辑好了之后push到github仓库就可以了。你就可以看到gif动画了。]]></content>
+    <content type="text"><![CDATA[先展示一下效果：这是一张截图，readme文件中显示的是gif图片，请进地址查看：github地址 其实上传很简单。可却不是直接拖入那么简单。下面就按照步骤介绍一下。 第一步：需要将你需要显示的gif图跟随你的项目代码一同上传至你在github建立的仓库上。如图所示：如果你需要展示比较多gif图，且为了方便管理，你可以建个文件夹放这些图。 第二步：点击你仓库中的git图，你就可以获取到该gif图的地址： 第三步，也就是最后一步了。编辑本地的README文件（最好用markDown编辑器打开，方便及时预览效果），在需要导入gif图的地方填写即可哦。如下（拷贝，改地址就行啦）： 1![image](https://github.com/FengziXiao/JxyDatePicker/blob/master/1340843-a76f1e1788c0684f.gif); 好啦。编辑好了之后push到github仓库就可以了。你就可以看到gif动画了。]]></content>
   </entry>
   <entry>
     <title><![CDATA[提问的艺术]]></title>
